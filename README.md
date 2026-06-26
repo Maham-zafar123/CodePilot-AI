@@ -302,7 +302,7 @@ streamlit run app.py
 
 ## 📊 Advanced Features
 
-![Architecture](assests/Advanced Features.png)
+![Architecture](assests/Advanced.png)
 
 ---
 
