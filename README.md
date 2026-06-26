@@ -288,25 +288,21 @@ streamlit run app.py
 
 # 📸 Application Screenshots
 
-## 🏠 Dashboard
+## 🏠 Home
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assests/Home.png)
 
-## 💬 AI Chat
+## 📂 Uploads 
 
-![Chat](assets/chat.png)
+![Chat](assests/Uploads.png)
 
-## 🔒 Security Scanner
+## 🐞Bugs 
 
-![Security](assets/security.png)
+![Security](assests/Bugs.png)
 
-## 📊 Architecture Diagram
+## 📊 Advanced Features
 
-![Architecture](assets/architecture.png)
-
-## 📝 Documentation Generator
-
-![Documentation](assets/documentation.png)
+![Architecture](assests/Advanced Features.png)
 
 ---
 
