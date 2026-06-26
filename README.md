@@ -3,11 +3,17 @@
 
 ### AI Software Engineering Assistant powered by Generative AI, RAG, Semantic Code Search & Intelligent Code Analysis
 
-<p align="center">
 
-**Python • Streamlit • Gemini AI • RAG • ChromaDB • Sentence Transformers • LangGraph**
-
-</p>
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-8A2BE2?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/Vector_DB-ChromaDB-7B2CBF?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence-Transformers-FF9800?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-AI-00C853?style=for-the-badge)
+![GitPython](https://img.shields.io/badge/GitPython-181717?style=for-the-badge&logo=git&logoColor=white)
+![Static Analysis](https://img.shields.io/badge/Static-Code_Analysis-00ACC1?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
 ---
 
